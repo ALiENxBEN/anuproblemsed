@@ -105,5 +105,5 @@ class TelegraphHelper:
 
 
 telegraph = TelegraphHelper(
-    'tanha', 'https://github.com/5hojib/tanha')
+    'anuproblemsed', 'https://github.com/Anuragben10/anuproblemsed')
 bot_loop.run_until_complete(telegraph.create_account())
