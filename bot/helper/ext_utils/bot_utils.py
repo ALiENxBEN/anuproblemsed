@@ -38,17 +38,17 @@ PAGE_NO = 1
 
 
 class MirrorStatus:
-    STATUS_UPLOADING = "Uploading"
-    STATUS_DOWNLOADING = "Downloading"
-    STATUS_CLONING = "Cloning"
-    STATUS_QUEUEDL = "Queued"
-    STATUS_QUEUEUP = "Queued"
-    STATUS_PAUSED = "Paused"
-    STATUS_ARCHIVING = "Archiving"
-    STATUS_EXTRACTING = "Extracting"
-    STATUS_SPLITTING = "Splitting"
-    STATUS_CHECKING = "Checking"
-    STATUS_SEEDING = "Seeding"
+    STATUS_UPLOADING = "🅤🅟🅛🅞🅐🅓🅘🅝🅖"
+    STATUS_DOWNLOADING = "🅓🅞🅦🅝🅛🅞🅐🅓🅘🅝🅖"
+    STATUS_CLONING = "🅒🅛🅞🅝🅘🅝🅖"
+    STATUS_QUEUEDL = "🅠🅤🅔🅤🅔🅓"
+    STATUS_QUEUEUP = "🅠🅤🅔🅤🅔🅓"
+    STATUS_PAUSED = "🅟🅐🅤🅢🅔🅓"
+    STATUS_ARCHIVING = "🅐🅡🅒🅗🅘🅥🅘🅝🅖"
+    STATUS_EXTRACTING = "🅔🅧🅣🅡🅐🅒🅣🅘🅝🅖"
+    STATUS_SPLITTING = "🅢🅟🅛🅘🅣🅣🅘🅝🅖"
+    STATUS_CHECKING = "🅒🅗🅔🅒🅚🅘🅝🅖"
+    STATUS_SEEDING = "🅢🅔🅔🅓🅘🅝🅖"
 
 
 class setInterval:
