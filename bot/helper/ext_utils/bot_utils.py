@@ -133,7 +133,7 @@ def progress_bar(pct):
     return p_str
 
 def get_readable_message():
-    msg = ''
+    msg = "<b>Powered by ANURAG</b>\n\n"
     button = None
     STATUS_LIMIT = config_dict['STATUS_LIMIT']
     tasks = len(download_dict)
